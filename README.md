@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 3rd Year **B.Tech in Computer Science**  
-- 💻 Skilled in **Full-Stack Web Development** and **Java-based Problem Solving**  
+- 💻 Skilled in **Full-Stack Web Development** and **C++ based Problem Solving**  
 - 🧠 Interested in **intelligent systems** and the fusion of **AI with modern web technology**  
 - 🔭 Currently working on **React.js**, **Redux**, and **Node.js** projects  
 - 📫 Reach me at **abhisheksah018@gmail.com**
