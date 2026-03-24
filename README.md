@@ -3,10 +3,10 @@
 </h1>
                                                  
   <p align="center">
-      <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf" target="_blank">
-   
+  <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf">
+   <img src="https://img.shields.io/badge/Download%20Resume-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>                                                
+</p>                                               
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf" target="_blank">
