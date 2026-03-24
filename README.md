@@ -1,51 +1,68 @@
 <h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:800;">
   <b>Hii I'm 👋Abhishek Kumar</b>
 </h1>
-<h3 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Full-Stack Developer | React & Redux | Passionate About Intelligent Systems
+                                                 
+  <p align="center">
+      <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf" target="_blank">
+   
+  </a>
+</p>                                                
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf" target="_blank">
+    
+  </a>
+</p>
+
+<h3 align="center">
+  Full-Stack Developer | Backend-Focused | Building Real-Time & Scalable Web Applications
 </h3>
 
-
 ---
-
 ### 👨‍💻 About Me
-- 🎓 3rd Year **B.Tech in Computer Science**  
-- 💻 Skilled in **Full-Stack Web Development** and **C++ based Problem Solving**  
-- 🧠 Interested in **intelligent systems** and the fusion of **AI with modern web technology**  
-- 🔭 Currently working on **React.js**, **Redux**, and **Node.js** projects  
-- 📫 Reach me at **abhisheksah018@gmail.com**
+
+* 🎓 3rd Year B.Tech in Computer Science
+* 💻 Full-Stack Developer with a **backend-focused approach (Node.js, Express, MongoDB)**
+* ⚡ Strong in **Data Structures & Algorithms (C++)**
+* 🧠 Interested in **real-time systems, scalable architectures, and intelligent applications**
+* 🔧 Currently working with **authentication systems, APIs, and system design fundamentals**
+* 📫 Reach me at **[abhisheksah018@gmail.com](mailto:abhisheksah018@gmail.com)**
+
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,redux,nodejs,express,mongodb,mysql,php,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,docker,aws,mysql,php,tailwind,git,github,redis" />
 </p>
 
 ---
-
 ### 💼 Featured Projects
 
-| 🚀 Project | Description | ⚙️ Tech Stack |
-|------------|--------------|---------------|
-| [🍔 Swiggy Clone](https://github.com/Abhii0018/Swiggy-Clone) | A responsive Swiggy clone with Redux for state management and TailwindCSS for UI. | React.js, Redux, TailwindCSS |
-| [✅ To-Do App](https://github.com/Abhii0018/ToDo-App) | A simple and clean task management app with CRUD and local storage. | React.js, JavaScript |
-| [📘 Recipe Hub](https://github.com/Abhii0018/Recipe-Hub) | A PHP-based recipe-sharing platform with MySQL database. | PHP, MySQL |
-| [🎮 TicTacToe Game](https://github.com/Abhii0018/Tictactoe) | A classic browser-based game built using HTML, CSS, and JavaScript. | JavaScript |
+| 🚀 Project                                                                                          | Description                                                                                                                                                       | ⚙️ Tech Stack                                    |
+| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [📊 Automated Attendance System](https://github.com/Abhii0018/Automated-Attendance-System-Frontend) | Full-stack system to **track student attendance and automate email alerts to parents**, solving real-world absentee monitoring with backend-driven data handling. | React.js, Node.js, Express, MongoDB              |
+| [🎧 Spotify Clone](https://github.com/Abhii0018/spotify-clone)                                      | Full-stack music streaming app with **JWT authentication**, dynamic audio player (play/pause/seek), and APIs for managing users and music data.                   | React.js, Node.js, Express, MongoDB, TailwindCSS |
+| [💬 QuickChat (Real-Time Chat App)](https://github.com/Abhii0018/QuickChat)                         | Real-time messaging platform using **Socket.io** with private chats, authentication, and persistent message storage.                                              | React.js, Node.js, Express, MongoDB, Socket.io   |
+| 📦 Task Manager                                                                                     | Full-stack task management app with **CRUD operations**, persistent storage, and efficient state handling.                                                        | React.js, Node.js, MongoDB                       |
 
 ---
+### 🚧 Currently Building
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhii0018&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhii0018&theme=tokyonight" />
-</p>
+* 🔧 Working on **scalable backend systems using Node.js & Express**
+* ⚡ Exploring **real-time architectures (WebSockets, event-driven systems)**
+* 🐳 Learning **Docker for containerization and deployment**
+* ☁️ Getting hands-on with **AWS and cloud-based deployments**
+* 🚀 Improving **system design and backend performance optimization**
 
 ---
 
 ### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhii0018&theme=tokyonight&margin-w=10&margin-h=10" />
+<p>
+  • Solved 200+ Data Structures & Algorithms problems across LeetCode and HackerRank <br>
+  • Earned HackerRank Skill Certifications in JavaScript & C++ <br>
+  • Built full-stack applications with authentication, real-time systems, and backend APIs <br>
+  • Developed systems solving real-world problems like attendance tracking and automated notifications
 </p>
 
 ---
