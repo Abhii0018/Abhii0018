@@ -1,12 +1,16 @@
 <h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:800;">
   <b>Hii I'm 👋Abhishek Kumar</b>
 </h1>
-                                                  
-  <p align="center">
-  <a href="https://drive.google.com/file/d/1w0-OYOdB1brh8zYkIPJxPV5FR1ltFYZ4/view?usp=sharing">
-   <img src="https://img.shields.io/badge/Download%20Resume-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1w0-OYOdB1brh8zYkIPJxPV5FR1ltFYZ4/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0072b1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
-</p>                                               
+  &nbsp;
+  <a href="https://abhishek-portfolio-beryl-sigma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-4F8A8B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 <h3 align="center">
   Full-Stack Developer | Backend-Focused | Building Real-Time & Scalable Web Applications
@@ -59,14 +63,54 @@
 </p>
 
 ---
-### 💼 Featured Projects
+<h2 align="center" style="font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif; font-weight:900; letter-spacing: 1px;">🚀 Featured Projects</h2>
 
-| 🚀 Project                                                                                          | Description                                                                               |
-| --------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------|
-| [📊 Automated Attendance System](https://github.com/Abhii0018/Automated-Attendance-System-Frontend) | Full-stack system to **track student attendance and automate email alerts to parents**, solve fraudulent attendance, and present analytics dashboards                         |
-| [🎧 Spotify Clone](https://github.com/Abhii0018/spotify-clone)                                      | Full-stack music streaming app with **JWT authentication**, dynamic audio player (play/pause/seek), and playlist management      |
-| [💬 QuickChat (Real-Time Chat App)](https://github.com/Abhii0018/QuickChat)                         | Real-time messaging platform using **Socket.io** with private chats, authentication, and profile settings                      |
-| 📦 Task Manager                                                                                     | Full-stack task management app with **CRUD operations**, persistent storage, and efficient user flow management                |
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <b style="font-size:1.15em; color:#2980b9;">Swapship 🛒</b><br>
+      <i>Peer-to-peer marketplace for seamless item exchange</i>
+      <ul>
+        <li>Secure authentication (email, Google, OTP) & role-based access</li>
+        <li>Real-time chat for smooth buyer–seller interaction</li>
+        <li>Integrated payments (Razorpay) and shipment tracking</li>
+        <li>Product discovery, media upload & delivery verification</li>
+        <li><b>Stack:</b> Laravel, Inertia.js, PostgreSQL, Cloudinary</li>
+      </ul>
+      <a href="https://swapship.onrender.com" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Live%20Demo-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b style="font-size:1.15em; color:#8e44ad;">AttendX 📊</b><br>
+      <i>Smart attendance tracker for schools & colleges</i>
+      <ul>
+        <li>Automated student logging and instant absence alerts</li>
+        <li>Role-based access for teachers, students, admins</li>
+        <li>Email notifications and attendance analytics dashboard</li>
+        <li>Data export and clear reporting for all users</li>
+        <li><b>Stack:</b> React.js, Node.js, MongoDB, Vercel</li>
+      </ul>
+      <a href="https://automated-attendance-system-fronten-beta.vercel.app/" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Live%20Demo-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+      </a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <b style="font-size:1.15em; color:#27ae60;">Spotify Clone 🎧</b><br>
+      <i>Modern, full-featured music streaming platform</i>
+      <ul>
+        <li>User authentication (JWT), profile & playlist management</li>
+        <li>Create, like, and organize playlists & songs</li>
+        <li>View all liked songs in separate “Liked” playlist</li>
+        <li>Dynamic audio player (queue, shuffle, repeat)</li>
+        <li><b>Stack:</b> React.js, Node.js, Express, MongoDB, Vercel</li>
+      </ul>
+      <a href="https://spotify-lovat-nine.vercel.app/" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Live%20Demo-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 ### 🚧 Currently Building
@@ -99,3 +143,4 @@
 <p align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:600;">
   “Code with clarity. Build with purpose. Grow with every line.”
 </p>
+
