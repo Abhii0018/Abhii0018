@@ -1,18 +1,12 @@
 <h1 align="center" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:800;">
   <b>Hii I'm 👋Abhishek Kumar</b>
 </h1>
-                                                 
+                                                  
   <p align="center">
-  <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf">
+  <a href="https://drive.google.com/file/d/1w0-OYOdB1brh8zYkIPJxPV5FR1ltFYZ4/view?usp=sharing">
    <img src="https://img.shields.io/badge/Download%20Resume-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>                                               
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/Abhii0018/Abhii0018/main/Abhishek_Kumar_Resume.pdf" target="_blank">
-    
-  </a>
-</p>
 
 <h3 align="center">
   Full-Stack Developer | Backend-Focused | Building Real-Time & Scalable Web Applications
@@ -28,23 +22,51 @@
 * 🔧 Currently working with **authentication systems, APIs, and system design fundamentals**
 * 📫 Reach me at **[abhisheksah018@gmail.com](mailto:abhisheksah018@gmail.com)**
 
-
 ---
-
 ### 🧠 Tech Stack
+
+#### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,redux,nodejs,express,mongodb,docker,aws,mysql,php,tailwind,git,github,redis" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp" />
+</p>
+
+#### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,redux,gsap" />
+</p>
+
+#### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,laravel" />
+</p>
+
+#### Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+#### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions" />
+</p>
+
+#### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,vercel,netlify" />
+</p>
+<p align="center">
+  Render, Railway
 </p>
 
 ---
 ### 💼 Featured Projects
 
-| 🚀 Project                                                                                          | Description                                                                                                                                                       | ⚙️ Tech Stack                                    |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| [📊 Automated Attendance System](https://github.com/Abhii0018/Automated-Attendance-System-Frontend) | Full-stack system to **track student attendance and automate email alerts to parents**, solving real-world absentee monitoring with backend-driven data handling. | React.js, Node.js, Express, MongoDB              |
-| [🎧 Spotify Clone](https://github.com/Abhii0018/spotify-clone)                                      | Full-stack music streaming app with **JWT authentication**, dynamic audio player (play/pause/seek), and APIs for managing users and music data.                   | React.js, Node.js, Express, MongoDB, TailwindCSS |
-| [💬 QuickChat (Real-Time Chat App)](https://github.com/Abhii0018/QuickChat)                         | Real-time messaging platform using **Socket.io** with private chats, authentication, and persistent message storage.                                              | React.js, Node.js, Express, MongoDB, Socket.io   |
-| 📦 Task Manager                                                                                     | Full-stack task management app with **CRUD operations**, persistent storage, and efficient state handling.                                                        | React.js, Node.js, MongoDB                       |
+| 🚀 Project                                                                                          | Description                                                                               |
+| --------------------------------------------------------------------------------------------------- | -----------------------------------------------------------------------------------------|
+| [📊 Automated Attendance System](https://github.com/Abhii0018/Automated-Attendance-System-Frontend) | Full-stack system to **track student attendance and automate email alerts to parents**, solve fraudulent attendance, and present analytics dashboards                         |
+| [🎧 Spotify Clone](https://github.com/Abhii0018/spotify-clone)                                      | Full-stack music streaming app with **JWT authentication**, dynamic audio player (play/pause/seek), and playlist management      |
+| [💬 QuickChat (Real-Time Chat App)](https://github.com/Abhii0018/QuickChat)                         | Real-time messaging platform using **Socket.io** with private chats, authentication, and profile settings                      |
+| 📦 Task Manager                                                                                     | Full-stack task management app with **CRUD operations**, persistent storage, and efficient user flow management                |
 
 ---
 ### 🚧 Currently Building
@@ -56,7 +78,6 @@
 * 🚀 Improving **system design and backend performance optimization**
 
 ---
-
 ### 🏆 Achievements
 <p>
   • Solved 200+ Data Structures & Algorithms problems across LeetCode and HackerRank <br>
@@ -66,7 +87,6 @@
 </p>
 
 ---
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:abhisheksah018@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" /></a>
