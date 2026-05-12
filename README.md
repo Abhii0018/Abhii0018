@@ -19,8 +19,7 @@
 ---
 ### 👨‍💻 About Me
 
-👋🏼 Hey, I’m Abhishek Kumar!  
-💻 Full-Stack Developer | 🚀 Tech Explorer | 🧩 Problem Solver
+
 
 I turn caffeine ☕ and code 💻 into ideas that ship fast and make an impact.  
 JavaScript & TypeScript are my jam—React ⚛️, Node.js 🌐, and Laravel ⚙️ are my tools of choice.
